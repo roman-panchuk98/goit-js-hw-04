@@ -1,6 +1,6 @@
 function calcAverageCalories(days) {
   let res = 0;
-  for (const value of array) {
+  for (const value of days) {
     res += value.calories;
   }
 
